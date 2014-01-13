@@ -1,0 +1,8 @@
+argparse==1.2.1
+httplib2==0.8
+lockfile==0.9.1
+python-daemon==1.5.5
+six==1.5.2
+twilio==3.6.4
+unittest2==0.5.1
+wsgiref==0.1.2
